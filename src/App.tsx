@@ -1,18 +1,18 @@
 import "./styles.css";
 
-import Navbar from "./components/Navbar";
-import Hero from "./components/Hero";
-import About from "./components/About";
-import Services from "./components/Services";
-import Addons from "./components/Addons";
-import Gallery from "./components/Gallery";
-import WhyUs from "./components/WhyUs";
-import Reviews from "./components/Reviews";
-import Policies from "./components/Policies";
-import Booking from "./components/Booking";
-import FAQ from "./components/FAQ";
-import Contact from "./components/Contact";
-import Footer from "./components/Footer";
+import Navbar from "./Navbar";
+import Hero from "./Hero";
+import About from "./About";
+import Services from "./Services";
+import Addons from "./Addons";
+import Gallery from "./Gallery";
+import WhyUs from "./WhyUs";
+import Reviews from "./Reviews";
+import Policies from "./Policies";
+import Booking from "./Booking";
+import FAQ from "./FAQ";
+import Contact from "./Contact";
+import Footer from "./Footer";
 
 export default function App() {
   return (
